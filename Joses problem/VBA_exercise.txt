@@ -1,0 +1,29 @@
+1. Write a program that will add two numbers input by the user and display the result in a spreadsheet. Use an input box and the Va1() function to convert the user input to a numerical data type.
+
+2. Place a Command Button control on a worksheet and write a program in the C1ick() event procedure that increments a variable by 5 with every click of the mouse. Output the value of this variable in a message box.
+
+3. Write a program that extracts the time from the string returned by the Now function and outputs it in a message box.
+
+4. Insert a new standard module and define a procedure that, when executed, prompts the user for his/her name and phone number. The form of the phone number entered by the user should include two dashes; one after the area code and one after the 3-digit prefix. Your program should use string functions to remove the dashes and then output the user's name and dash-less phone number to a worksheet.
+
+5. Write a program that automatically sums the rows, columns, and diagonals of a 5 x 5 magic square.
+
+6. Hacer un algoritmo que sume dos matrices (cuadradas)
+
+7. Hacer una algoritmo que multiplique elemento a elemento dos matrices (cuadradas)
+
+8. Hacer un algoritmo que multiplique dos matrices que son cuadradas
+
+9 Hacer un algoritmo que multiplique dos matrices que pueden o no ser cuadradas, validar que se cumpla lo condición de la multiplicación de dos matrices y en caso de que no se cumpla, informar que no se cumple la condición.
+
+10. Calcular el determinante de una matrices
+
+11. Encontra la solución a un sistema de ecuaciones usando el metodo cramer,Nota: Hacer uso del algoritmo del punto 10 para tal fin.
+
+12. Hacer un algoritmo que indique si una matriz es de tipo IDENTIDAD, IDENTIDAD es que todos sus elementos de la diagonal principal son iguales y los demas  elementos son ceros
+
+13. Hacer un algoritmo que indique si una matriz es de tipo IDENTIDAD pero en la diagonal secundaria, es decir, de izquierda a derecha empezando abajo.
+
+
+
+
